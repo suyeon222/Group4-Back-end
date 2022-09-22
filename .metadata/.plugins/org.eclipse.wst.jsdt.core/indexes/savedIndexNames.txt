@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\kwctl\Desktop\GoldzonProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2635237677.index
+3983996281.index
+3750003360.index
+3309577360.index

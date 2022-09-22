@@ -1,0 +1,12 @@
+package test.com.comment.model;
+
+import java.sql.Date;
+
+public class CommentVO {
+	private int comment_id; // ´ñ±Û ¹øÈ£
+	private int board_id; // °Ô½Ã±Û¹øÈ£
+	private String comment; // ´ñ±Û ³»¿ë
+	private String commenter; // ´ñ±Û ÀÛ¼ºÀÚ
+	private Date cdate; // ´ñ±Û ÀÛ¼º ÀÏÀÚ
+
+}

@@ -1,0 +1,13 @@
+package test.com.vote.model;
+
+import java.sql.Date;
+
+public class VoteVO {
+	private int vote_id; // 투표ID
+	private int club_id; // 클럽ID
+	private String writer; // 투표 작성자
+	private Date edate; // 투표 기한 (Expire date)
+	private int status; // 종료 여부 (0: 진행중, 1: 종료)
+	private String voter; // 투표한 사람들
+	
+}
